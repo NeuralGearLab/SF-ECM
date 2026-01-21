@@ -1,4 +1,4 @@
-# DDFA
-A Dual-Domain Feature Adapter for Parameter-Efficient Fine-Tuning.
+# SF-ECM
+Spatial-Frequency Evidence Compensation Model
 
 The source code of this paper is coming soon.
